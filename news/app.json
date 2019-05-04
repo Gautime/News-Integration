@@ -1,0 +1,15 @@
+{
+    "id": "b133df4a-1880-46c7-9829-f0ce96740aff",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Kapil.Gautam",
+        "homepage": "https://www.rocket.chat",
+        "support": "https://www.rocket.chat"
+    },
+    "name": "News",
+    "nameSlug": "news",
+    "classFile": "NewsApp.ts",
+    "description": "Search news by topic name"
+}
